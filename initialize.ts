@@ -1,7 +1,7 @@
 
 // import { CommandBot } from "./CommandBot";
 import { ConversationBot } from "./sdk/ConversationBot";
-import { HelloWorldCommandHandler, TestCommandHandler } from "./helloWorldHandler";
+import { HelloWorldCommandHandler, TestCommandHandler } from "./helloWorldCommandHandler";
 import config from "./config";
 import { CommandBot } from "./sdk/CommandBot";
 
